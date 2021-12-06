@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-NOME: GIANFRANCO AVONA COVELLO          TIA: 3185692-6
-NOME: RAMON SOUZA ARAUJO                TIA: 3190715-6
+NOME: GIANFRANCO AVONA COVELLO  
 
 """
 
